@@ -64,7 +64,7 @@ O ambiente foi virtualizado utilizando o **Oracle VirtualBox**.
 4. Preencha os dados e defina a senha
 
 
-![Criação de usuário](./imagens/criacaodeusuario.png)
+![usuarios](usuarios.png)
 
 ---
 
