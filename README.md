@@ -108,6 +108,8 @@ O ambiente foi virtualizado utilizando o **Oracle VirtualBox**.
 * IP atribuído via DHCP
 * Máquina ingressada no domínio
 
+![rede](rede.png)
+
 📌 Exemplo:
 
 * IP: `192.168.33.100`
